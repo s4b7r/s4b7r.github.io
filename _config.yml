@@ -19,9 +19,13 @@ description: >- # this means to ignore newlines until "baseurl:"
         A collection of thoughts
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://s4b7r.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Social Media user names
 #twitter_username:
 github_username:  s4b7r
 tumblr_username: s4b7r
+rss: rss
+
 repository: s4b7r/s4b7r.github.io
 author: s4b7r
 
