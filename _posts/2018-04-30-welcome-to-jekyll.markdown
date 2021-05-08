@@ -2,6 +2,7 @@
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2018-04-30 15:38:40 +0200
+date-updated: 2021-05-08 12:19:00 +0200
 ---
 
 *I will keep this example post for a while. Have fun.*
@@ -21,6 +22,8 @@ print_hi('Tom')
 {% endhighlight %}
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+*[Post script, 2021-05-08]* This GitHub page was left here a long time ago. Today I am playing with Jekyll, themes, layouts & co. again. Let's see what comes next...
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
