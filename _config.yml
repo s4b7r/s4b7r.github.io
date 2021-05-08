@@ -34,6 +34,7 @@ markdown: kramdown
 #theme: jekyll-theme-minimal
 # theme: minima
 theme: no-style-please
+remote_theme: riggraz/no-style-please 
 plugins:
   - jekyll-feed
 
