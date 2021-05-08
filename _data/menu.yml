@@ -2,4 +2,4 @@ entries:
   - title: about
     url: /about
   - title: posts
-    post_list: true
+    url: /posts
