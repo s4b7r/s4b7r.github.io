@@ -6,7 +6,7 @@ layout: home
 ---
 
 Hi, my name is Simon. I am a computer scientist and engineer, working in-between computational science and computational engineering with a focus on machine learning, optimization and simulations.
-Currently, I am part of Christian Schröder's Computational Materials Science and Engineering group at Bielefeld University of Applied Sciences.
+I am part of Christian Schröder's Computational Materials Science and Engineering group at Bielefeld University of Applied Sciences.
 
 I do research in machine learning to simulate and optimize phenomena and applications from physics and engineering. You can also find me giving lectures in high performance computing and computer science basics.
 
