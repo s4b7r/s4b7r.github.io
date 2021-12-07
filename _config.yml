@@ -21,6 +21,8 @@ email: write@s4b7r.de
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://s4b7r.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
+goat_counter: "s4b7rgithubio" # put your GoatCounter name if you want to use GoatCounter analytics
+
 # Social Media user names
 #twitter_username:
 github_username:  s4b7r
