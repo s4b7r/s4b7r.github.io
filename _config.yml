@@ -28,6 +28,7 @@ rss: rss
 
 repository: s4b7r/s4b7r.github.io
 author: s4b7r
+author_github: s4b7r
 
 # Build settings
 markdown: kramdown
@@ -57,7 +58,7 @@ theme_config:
   appearance: "auto" # can be "light", "dark" or "auto"
   back_home_text: ".." # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
-  show_description: true # show blog description in home page
+  show_description: false # show blog description in home page
   show_index_content_in_top: true # show content of index.md above menu
 
 sass:
