@@ -36,7 +36,7 @@ author_github: s4b7r
 markdown: kramdown
 #theme: jekyll-theme-minimal
 # theme: minima
-theme: no-style-please
+#theme: no-style-please
 remote_theme: s4b7r/no-style-please@s4b7rgithubio
 plugins:
   - jekyll-feed
