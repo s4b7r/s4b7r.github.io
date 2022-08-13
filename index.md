@@ -15,7 +15,6 @@ Hi, my name is Simon Bekemeier.
     - Develop digital processes, Support digitalization, Translate between disciplines
         - Identify problems, Ideate, Develope solutions, Implement
     - Share experience and knowledge in founding associations (german e.V.)
-    - Custom backup solutions
 - **Workshops**
     - Skills and Ideation
 - **Coaching**
