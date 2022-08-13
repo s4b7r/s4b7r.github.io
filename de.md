@@ -14,7 +14,6 @@ Hallo, mein Name ist Simon Bekemeier.
     - Digitale Prozesse entwickeln, Digitalisierung unterstützen, zwischen Fächern übersetzen
         - Probleme identifizieren, Ideenfindung, Lösungen entwickeln und umsetzen
     - Erfahrungen und Wissen zur Gründung von Vereinen teilen
-    - Individuelle Backup Lösungen
 - **Workshops**
     - Skills und Ideenfindung
 - **Coaching**
