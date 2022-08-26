@@ -4,11 +4,13 @@ title: Simon Bekemeier
 permalink: /de/
 ---
 
-Hallo, mein Name ist Simon Bekemeier.
+Hallo, mein Name ist Simon Bekemeier. Schön, dass du hergefunden hast.
 
-## Beschäftigung
+*Möchtest Du in Kontakt treten?* [write@s4b7r.de](mailto:write@s4b7r.de)
 
-*Probleme lösen und Menschen dabei helfen*
+## Was ich mache
+
+*Probleme lösen und Menschen dabei unterstützen*
 
 **Consulting, Workshops, Coaching, Entwicklung**
 
@@ -21,8 +23,6 @@ Hallo, mein Name ist Simon Bekemeier.
 - Machine Learning
 
 **Menschen zusammenbringen**: Um gemeinsam neue Möglichkeiten zu eröffnen
-
-*Möchtest Du in Kontakt treten?* [write@s4b7r.de](mailto:write@s4b7r.de)
 
 ## Mitglied
 
