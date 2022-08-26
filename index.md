@@ -11,22 +11,18 @@ Hi, my name is Simon Bekemeier.
 
 *Solve problems and help people do so*
 
-- **Consulting**
-    - Develop digital processes, Support digitalization, Translate between disciplines
-        - Identify problems, Ideate, Develope solutions, Implement
-    - Share experience and knowledge in founding associations (german e.V.)
-- **Workshops**
-    - Skills and Ideation
-- **Coaching**
-    - Self-management and Communication
-- **Development**
-    - Computational Solutions for Engineering and Science Applications
-        - High Performance and Parallel Computing
-        - Machine Learning
-- **Connecting people**
-    - To enable new opportunities, together
-    - *Want to discuss something?* [write@s4b7r.de](mailto:write@s4b7r.de)
-- **. . .**
+**Consulting, Workshops, Coaching, Development**
+
+- Develop digital processes, Support digitalization, Translate between disciplines
+- Identify problems, Ideate, Develope solutions, Implement
+- Self-management and Communication
+- Computational Solutions for Engineering and Science Applications
+- High Performance and Parallel Computing
+- Machine Learning
+
+**Connecting people**: To enable new opportunities, together
+
+*Want to discuss something?* [write@s4b7r.de](mailto:write@s4b7r.de)
 
 ## Affilitations
 
@@ -36,7 +32,7 @@ Hi, my name is Simon Bekemeier.
 - [Bielefeld University](https://www.uni-bielefeld.de/)
     - PhD student
 - [Studienfonds Community e.V.](https://studienfondscommunity.de/)
-    - Co-Founder, Board
+    - Co-Founder, Board member
 - [Stiftung Studienfonds OWL](https://www.studienfonds-owl.de/)
     - Curator
 - [Code for Bielefeld](https://codefor.de/bielefeld/)
@@ -53,6 +49,5 @@ Hi, my name is Simon Bekemeier.
 - Lecturer - High Performance Computing, since 2015, FH Bielefeld
 - Lecturer - Computer Science Basics for students of Mechanical Engineering, since 2019, FH Bielefeld
 - Course Teacher - Numerical Simulations, since 2015, FH Bielefeld
-- Course Teacher - Theoretical Electrical Engineering, since 2022, FH Bielefeld
 - Programming Coach in practical projects in Mechanical Engineering, since 2020, FH Bielefeld
-- Co-Organizer - [Studienfonds Community Conference 2022](https://studienfondscommunity.de/conference-2022)
+- Co-Organizer - [Studienfonds Community Conference 2022](https://studienfondscommunity.de/kick-off-gelungen-die-studienfonds-community-conference-2022/)

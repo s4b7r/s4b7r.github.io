@@ -10,22 +10,19 @@ Hallo, mein Name ist Simon Bekemeier.
 
 *Probleme lösen und Menschen dabei helfen*
 
-- **Consulting**
-    - Digitale Prozesse entwickeln, Digitalisierung unterstützen, zwischen Fächern übersetzen
-        - Probleme identifizieren, Ideenfindung, Lösungen entwickeln und umsetzen
-    - Erfahrungen und Wissen zur Gründung von Vereinen teilen
-- **Workshops**
-    - Skills und Ideenfindung
-- **Coaching**
-    - Selbstmanagement und Kommunikation
-- **Entwicklung**
-    - Computer-gestützte Lösungen für Ingenieur- und Naturwissenschaftliche Anwendungen
-        - Hochleistungs- und Paralleles Rechnen
-        - Machine Learning
-- **Menschen zusammenbringen**
-    - Um gemeinsam neue Möglichkeiten zu eröffnen
-    - *Möchtest du in Kontakt kommen?* [write@s4b7r.de](mailto:write@s4b7r.de)
-- **. . .**
+**Consulting, Workshops, Coaching, Entwicklung**
+
+- Digitale Prozesse entwickeln, Digitalisierung unterstützen, zwischen Fächern übersetzen
+- Probleme identifizieren, Ideenfindung, Lösungen entwickeln und umsetzen
+- Erfahrungen und Wissen zur Gründung von Vereinen teilen
+- Selbstmanagement und Kommunikation
+- Computer-gestützte Lösungen für Ingenieur- und Naturwissenschaftliche Anwendungen
+- Hochleistungs- und Paralleles Rechnen
+- Machine Learning
+
+**Menschen zusammenbringen**: Um gemeinsam neue Möglichkeiten zu eröffnen
+
+*Möchtest Du in Kontakt treten?* [write@s4b7r.de](mailto:write@s4b7r.de)
 
 ## Mitglied
 
@@ -53,6 +50,5 @@ Hallo, mein Name ist Simon Bekemeier.
 - Dozent - High Performance Computing, seit 2015, FH Bielefeld
 - Dozent - Grundlagen der industriellen Informatik im Verbundstudiengang Maschinenbau, seit 2019, FH Bielefeld
 - Kursleiter - Numerische Simulationen, seit 2015, FH Bielefeld
-- Kursleiter - Theoretische Elektrotechnik, seit 2022, FH Bielefeld
 - Programmier-Coach für praktische Projekte im Maschinenbau, seit 2020, FH Bielefeld
-- Mitorganisator - [Studienfonds Community Conference 2022](https://studienfondscommunity.de/conference-2022)
+- Mitorganisator - [Studienfonds Community Conference 2022](https://studienfondscommunity.de/kick-off-gelungen-die-studienfonds-community-conference-2022/)
