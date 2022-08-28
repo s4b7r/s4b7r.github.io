@@ -12,7 +12,7 @@ Hallo, mein Name ist Simon Bekemeier. Schön, dass du hergefunden hast.
 
 *Probleme lösen und Menschen dabei unterstützen*
 
-**Consulting, Workshops, Coaching, Entwicklung**
+**Consulting, Workshops, Coaching, IT Entwicklung**
 
 - Digitale Prozesse entwickeln, Digitalisierung unterstützen, zwischen Fächern übersetzen
 - Probleme identifizieren, Ideenfindung, Lösungen entwickeln und umsetzen
