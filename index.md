@@ -13,7 +13,7 @@ Hi, my name is Simon Bekemeier. Welcome to my personal website.
 
 *Solve problems and help people do so*
 
-**Consulting, Workshops, Coaching, Development**
+**Consulting, Workshops, Coaching, IT Development**
 
 - Develop digital processes, Support digitalization, Translate between disciplines
 - Identify problems, Ideate, Develope solutions, Implement
