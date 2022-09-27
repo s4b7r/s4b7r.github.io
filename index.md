@@ -15,13 +15,6 @@ Hi, my name is Simon Bekemeier. Welcome to my personal website.
 
 **Consulting, Workshops, Coaching, IT Development**
 
-- Develop digital processes, Support digitalization, Translate between disciplines
-- Identify problems, Ideate, Develope solutions, Implement
-- Self-management and Communication
-- Computational Solutions for Engineering and Science Applications
-- High Performance and Parallel Computing
-- Machine Learning
-
 **Connecting people**: To enable new opportunities, together
 
 ## Affilitations

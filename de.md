@@ -14,14 +14,6 @@ Hallo, mein Name ist Simon Bekemeier. Schön, dass du hergefunden hast.
 
 **Consulting, Workshops, Coaching, IT Entwicklung**
 
-- Digitale Prozesse entwickeln, Digitalisierung unterstützen, zwischen Fächern übersetzen
-- Probleme identifizieren, Ideenfindung, Lösungen entwickeln und umsetzen
-- Erfahrungen und Wissen zur Gründung von Vereinen teilen
-- Selbstmanagement und Kommunikation
-- Computer-gestützte Lösungen für Ingenieur- und Naturwissenschaftliche Anwendungen
-- Hochleistungs- und Paralleles Rechnen
-- Machine Learning
-
 **Menschen zusammenbringen**: Um gemeinsam neue Möglichkeiten zu eröffnen
 
 ## Mitglied
