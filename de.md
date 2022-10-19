@@ -10,6 +10,7 @@ Hallo, mein Name ist Simon Bekemeier. Schön, dass du hergefunden hast.
 
 ## Was ich mache
 
+*Menschen und Ideen zusammenbringen,* <br>
 *Probleme lösen und Menschen dabei unterstützen*
 
 **Consulting, Workshops, Coaching, IT Entwicklung**

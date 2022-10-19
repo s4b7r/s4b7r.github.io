@@ -5,12 +5,13 @@
 layout: home
 ---
 
-Hi, my name is Simon Bekemeier. Welcome to my personal website.
+Hi, my name is Simon. Welcome to my personal website.
 
 *Want to discuss something?* [write@s4b7r.de](mailto:write@s4b7r.de)
 
 ## I do
 
+*Connecting people and ideas,* <br>
 *Solve problems and help people do so*
 
 **Consulting, Workshops, Coaching, IT Development**
