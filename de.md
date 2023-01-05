@@ -29,6 +29,7 @@ Hallo, mein Name ist Simon Bekemeier. Schön, dass du hergefunden hast.
 - [Stiftung Studienfonds OWL](https://www.studienfonds-owl.de/)
     - Kurator
 - [Code for Bielefeld](https://codefor.de/bielefeld/)
+    - Mitgründer, Vorstandsmitglied
 
 ## Ausbildung
 
