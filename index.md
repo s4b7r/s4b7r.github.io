@@ -30,6 +30,7 @@ Hi, my name is Simon. Welcome to my personal website.
 - [Stiftung Studienfonds OWL](https://www.studienfonds-owl.de/)
     - Curator
 - [Code for Bielefeld](https://codefor.de/bielefeld/)
+    - Co-Founder, Board member
 
 ## Education
 
