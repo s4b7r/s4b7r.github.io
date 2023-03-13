@@ -30,12 +30,12 @@ Hallo, mein Name ist Simon Bekemeier. Schön, dass du hergefunden hast.
     - Kurator
 - [Code for Bielefeld](https://codefor.de/bielefeld/)
     - Mitgründer, Vorstandsmitglied
+- [MaterialDigital AG Workflows](https://www.materialdigital.de/workflows/)
 
 ## Ausbildung
 
 - Master of Science in Optimierung und Simulation, FH Bielefeld, 2017
 - Bachelor of Engineering in Informationstechnik, FH Bielefeld, 2015
-- Informationstechnischer Assistent, August Griese Berufskolleg Löhne, 2011
 
 ## Erfahrungen
 

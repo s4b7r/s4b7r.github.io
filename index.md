@@ -31,6 +31,7 @@ Hi, my name is Simon. Welcome to my personal website.
     - Curator
 - [Code for Bielefeld](https://codefor.de/bielefeld/)
     - Co-Founder, Board member
+- [MaterialDigital Workflows Working Group](https://www.materialdigital.de/workflows/)
 
 ## Education
 
