@@ -2,6 +2,7 @@
 layout: home
 title: Simon Bekemeier
 permalink: /de/
+lang: de
 ---
 
 Hallo, mein Name ist Simon Bekemeier. Schön, dass du hergefunden hast.

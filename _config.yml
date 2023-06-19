@@ -19,7 +19,7 @@ email: write@s4b7r.de
 #         A collection of thoughts
 #description: less random, yet intersting stuff
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://s4b7r.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.s4b7r.de" # the base hostname & protocol for your site, e.g. http://example.com
 
 goat_counter: "s4b7rgithubio" # put your GoatCounter name if you want to use GoatCounter analytics
 
@@ -29,7 +29,7 @@ github_username:  s4b7r
 rss: rss
 
 repository: s4b7r/s4b7r.github.io
-author: s4b7r
+author: Simon Bekemeier
 author_github: s4b7r
 author_orcid: 0000-0001-8736-8796
 author_researchgate: Simon-Bekemeier
@@ -65,7 +65,7 @@ theme_config:
   back_home_text: ".." # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
   show_description: false # show blog description in home page
-  show_index_content_in_top: false # show content of index.md above menu
+  show_index_content_in_top: true # show content of index.md above menu
 
 sass:
   style: :compressed
