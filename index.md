@@ -9,6 +9,8 @@ Hi, my name is Simon. Welcome to my personal website.
 
 *Want to discuss something?* [write@s4b7r.de](mailto:write@s4b7r.de)
 
+(Current news at the end of the page.)
+
 ## I do
 
 *Connecting people and ideas,* <br>

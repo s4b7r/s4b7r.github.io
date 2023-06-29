@@ -9,6 +9,8 @@ Hallo, mein Name ist Simon Bekemeier. Schön, dass du hergefunden hast.
 
 *Möchtest Du in Kontakt treten?* [write@s4b7r.de](mailto:write@s4b7r.de)
 
+(Aktuelle Nachrichten am Ende der Seite.)
+
 ## Was ich mache
 
 *Menschen und Ideen zusammenbringen,* <br>
