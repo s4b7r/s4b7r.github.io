@@ -22,9 +22,13 @@ Hallo, mein Name ist Simon Bekemeier. Schön, dass du hergefunden hast.
 
 ## Mitglied
 
-- [Hochschule Bielefeld (ehemals FH Bielefeld)](https://www.hsbi.de/)
+- [Bundesanstalt für Materialforschung und -prüfung](https://www.bam.de/)
+- [Plattform MaterialDigital](https://www.materialdigital.de/)
+- [Hochschule Bielefeld](https://www.hsbi.de/) (ehemals FH Bielefeld)
     - Wissenschaftlicher Mitarbeiter, Doktorand, Dozent
 - [AG Computational Materials Science and Engineering](https://www.hsbi.de/ium/forschung/arbeitsgruppen/computational-materials-science-and-engineering) an der HSBI (ehemals FH Bielefeld)
+- - [Institut für Verbundstudien NRW](https://www.verbundstudium.de/)
+    - Dozent
 - [Bielefeld University](https://www.uni-bielefeld.de/)
     - Doktorand
 - [Studienfonds Community e.V.](https://studienfondscommunity.de/)
@@ -37,16 +41,17 @@ Hallo, mein Name ist Simon Bekemeier. Schön, dass du hergefunden hast.
 
 ## Ausbildung
 
-- Master of Science in Optimierung und Simulation, HSBI (ehemals FH Bielefeld), 2017
-- Bachelor of Engineering in Informationstechnik, HSBI (ehemals FH Bielefeld), 2015
+- Master of Science in Optimierung und Simulation, HSBI (ehemals FH Bielefeld)
+- Bachelor of Engineering in Informationstechnik, HSBI (ehemals FH Bielefeld)
 
 ## Erfahrungen
 
-- Wissenschaftlicher Mitarbeiter am [Bielefelder Institut für Angewandte Materialforschung](https://www.hsbi.de/bifam), seit 2017
+- Digitalisierung, Wissenstransfer und Community-Management für die [Plattform MaterialDigital](https://www.materialdigital.de/) und [BAM](https://www.bam.de/)
+- Wissenschaftlicher Mitarbeiter am [Bielefelder Institut für Angewandte Materialforschung](https://www.hsbi.de/bifam)
     - AG Computational Materials Science and Engineering
-- Dozent - High Performance Computing, seit 2015, HSBI (ehemals FH Bielefeld)
-- Dozent - Grundlagen der industriellen Informatik im Verbundstudiengang Maschinenbau, seit 2019, HSBI (ehemals FH Bielefeld) ([Institut für Verbundstudien](https://www.verbundstudium.de/))
-- Dozent - Informatik im Verbundstudiengang Elektrotechnik, seit 2023 2023, HSBI (ehemals FH Bielefeld) ([Institut für Verbundstudien](https://www.verbundstudium.de/))
-- Kursleiter - Numerische Simulationen, seit 2015, HSBI (ehemals FH Bielefeld)
-- Programmier-Coach für praktische Projekte im Maschinenbau, seit 2020, HSBI (ehemals FH Bielefeld)
+- Dozent - High Performance Computing, HSBI (ehemals FH Bielefeld)
+- Dozent - Grundlagen der industriellen Informatik im Verbundstudiengang Maschinenbau, HSBI (ehemals FH Bielefeld) ([Institut für Verbundstudien](https://www.verbundstudium.de/))
+- Dozent - Informatik im Verbundstudiengang Elektrotechnik, HSBI (ehemals FH Bielefeld) ([Institut für Verbundstudien](https://www.verbundstudium.de/))
+- Kursleiter - Numerische Simulationen, HSBI (ehemals FH Bielefeld)
+- Programmier-Coach für praktische Projekte im Maschinenbau, HSBI (ehemals FH Bielefeld)
 - Mitorganisator - [Studienfonds Community Conference 2022](https://studienfondscommunity.de/kick-off-gelungen-die-studienfonds-community-conference-2022/)
