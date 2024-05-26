@@ -1,14 +1,5 @@
 entries:
-  - title: DE
-    url: /de
   - title: EN
     url: /
-  - title: recent posts
-    # url: /posts
-    post_list:
-      limit: 5
-      show_more: true
-      show_more_url: posts/
-      show_more_text: /more
-  # - title: about
-  #   url: /about
+  - title: DE
+    url: /de

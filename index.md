@@ -5,11 +5,9 @@
 layout: home
 ---
 
-Hi, my name is Simon. Welcome to my personal website.
+Hi, my name is Simon.
 
 *Want to discuss something?* [write@s4b7r.de](mailto:write@s4b7r.de)
-
-(Current news at the end of the page.)
 
 ## I do
 
@@ -37,7 +35,6 @@ Hi, my name is Simon. Welcome to my personal website.
     - Curator
 - [Code for Bielefeld](https://codefor.de/bielefeld/)
     - Co-Founder, Board member
-- [MaterialDigital Workflows Working Group](https://www.materialdigital.de/workflows/)
 
 ## Education
 
@@ -46,7 +43,7 @@ Hi, my name is Simon. Welcome to my personal website.
 
 ## Experience
 
-- Digitalization, Knowledge Transfer andy Community-Management at [Platform MaterialDigital](https://www.materialdigital.de/) and [BAM](https://www.bam.de/)
+- Digitalization, Knowledge Transfer and Community-Management at [Platform MaterialDigital](https://www.materialdigital.de/) and [BAM](https://www.bam.de/)
 - Researcher at [Bielefeld Institute for Applied Materials Research](https://www.hsbi.de/bifam)
     - Computational Materials Science and Engineering group
 - Lecturer - High Performance Computing, HSBI (formerly FH Bielefeld)

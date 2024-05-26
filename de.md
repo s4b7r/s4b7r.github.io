@@ -5,11 +5,9 @@ permalink: /de/
 lang: de
 ---
 
-Hallo, mein Name ist Simon Bekemeier. Schön, dass du hergefunden hast.
+Hallo, mein Name ist Simon Bekemeier.
 
 *Möchtest Du in Kontakt treten?* [write@s4b7r.de](mailto:write@s4b7r.de)
-
-(Aktuelle Nachrichten am Ende der Seite.)
 
 ## Was ich mache
 
@@ -27,7 +25,7 @@ Hallo, mein Name ist Simon Bekemeier. Schön, dass du hergefunden hast.
 - [Hochschule Bielefeld](https://www.hsbi.de/) (ehemals FH Bielefeld)
     - Wissenschaftlicher Mitarbeiter, Doktorand, Dozent
 - [AG Computational Materials Science and Engineering](https://www.hsbi.de/ium/forschung/arbeitsgruppen/computational-materials-science-and-engineering) an der HSBI (ehemals FH Bielefeld)
-- - [Institut für Verbundstudien NRW](https://www.verbundstudium.de/)
+- [Institut für Verbundstudien NRW](https://www.verbundstudium.de/)
     - Dozent
 - [Bielefeld University](https://www.uni-bielefeld.de/)
     - Doktorand
@@ -37,7 +35,6 @@ Hallo, mein Name ist Simon Bekemeier. Schön, dass du hergefunden hast.
     - Kurator
 - [Code for Bielefeld](https://codefor.de/bielefeld/)
     - Mitgründer, Vorstandsmitglied
-- [MaterialDigital AG Workflows](https://www.materialdigital.de/workflows/)
 
 ## Ausbildung
 
