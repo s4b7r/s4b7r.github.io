@@ -5,6 +5,8 @@ permalink: /de/
 lang: de
 ---
 
+[en](/)
+
 Hallo, mein Name ist Simon Bekemeier.
 
 *Möchtest Du in Kontakt treten?* [write@s4b7r.de](mailto:write@s4b7r.de)

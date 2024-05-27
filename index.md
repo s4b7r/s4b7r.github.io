@@ -5,6 +5,8 @@
 layout: home
 ---
 
+[de](/de)
+
 Hi, my name is Simon.
 
 *Want to discuss something?* [write@s4b7r.de](mailto:write@s4b7r.de)
