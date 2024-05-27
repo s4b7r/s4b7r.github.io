@@ -18,21 +18,24 @@ Hallo, mein Name ist Simon Bekemeier.
 
 **Menschen zusammenbringen**: Um gemeinsam neue Möglichkeiten zu eröffnen
 
-## Mitglied
+## Zugehörigkeit
 
 - [Bundesanstalt für Materialforschung und -prüfung](https://www.bam.de/)
 - [Plattform MaterialDigital](https://www.materialdigital.de/)
+- [belveka](https://belveka.eu/)
+    - Gründer und Geschäftsführer
 - [Hochschule Bielefeld](https://www.hsbi.de/) (ehemals FH Bielefeld)
     - Wissenschaftlicher Mitarbeiter, Doktorand, Dozent
-- [AG Computational Materials Science and Engineering](https://www.hsbi.de/ium/forschung/arbeitsgruppen/computational-materials-science-and-engineering) an der HSBI (ehemals FH Bielefeld)
-- [Institut für Verbundstudien NRW](https://www.verbundstudium.de/)
-    - Dozent
-- [Bielefeld University](https://www.uni-bielefeld.de/)
-    - Doktorand
+    - [Bielefelder Institut für Angewandte Materialforschung](https://www.hsbi.de/bifam)
+    - [AG Computational Materials Science and Engineering](https://www.hsbi.de/ium/forschung/arbeitsgruppen/computational-materials-science-and-engineering) an der HSBI (ehemals FH Bielefeld)
 - [Studienfonds Community e.V.](https://studienfondscommunity.de/)
     - Mitgründer, Vorstandsvorsitzender
 - [Stiftung Studienfonds OWL](https://www.studienfonds-owl.de/)
     - Kurator
+- [Institut für Verbundstudien NRW](https://www.verbundstudium.de/)
+    - Dozent
+- [Universität Bielefeld](https://www.uni-bielefeld.de/)
+    - Doktorand
 - [Code for Bielefeld](https://codefor.de/bielefeld/)
     - Mitgründer, Vorstandsmitglied
 

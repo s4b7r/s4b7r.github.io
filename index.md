@@ -22,17 +22,20 @@ Hi, my name is Simon.
 
 - [Federal Institute for Materials Research and Testing](https://www.bam.de/)
 - [Platform MaterialDigital](https://www.materialdigital.de/)
+- [belveka](https://belveka.eu/)
+    - Founder and CEO
 - [Bielefeld University of Applied Sciences - HSBI (formerly FH Bielefeld)](https://www.hsbi.de/)
     - Researcher, PhD student, Lecturer
-- [Computational Materials Science and Engineering group](https://www.hsbi.de/ium/forschung/arbeitsgruppen/computational-materials-science-and-engineering) at HSBI (formerly FH Bielefeld)
-- [Institut für Verbundstudien NRW](https://www.verbundstudium.de/)
-    - Lecturer
-- [Bielefeld University](https://www.uni-bielefeld.de/)
-    - PhD student
+    - [Bielefeld Institute for Applied Materials Research](https://www.hsbi.de/bifam)
+    - [Computational Materials Science and Engineering group](https://www.hsbi.de/ium/forschung/arbeitsgruppen/computational-materials-science-and-engineering) at HSBI (formerly FH Bielefeld)
 - [Studienfonds Community e.V.](https://studienfondscommunity.de/)
     - Co-Founder, Board member
 - [Stiftung Studienfonds OWL](https://www.studienfonds-owl.de/)
     - Curator
+- [Institut für Verbundstudien NRW](https://www.verbundstudium.de/)
+    - Lecturer
+- [Bielefeld University](https://www.uni-bielefeld.de/)
+    - PhD student
 - [Code for Bielefeld](https://codefor.de/bielefeld/)
     - Co-Founder, Board member
 
