@@ -39,11 +39,6 @@ Hi, my name is Simon.
 - [Code for Bielefeld](https://codefor.de/bielefeld/)
     - Co-Founder, Board member
 
-## Education
-
-- Master of Science in Optimization and Simulation, FH Bielefeld (now HSBI)
-- Bachelor of Engineering in Information Technology, FH Bielefeld (now HSBI)
-
 ## Experience
 
 - Digitalization, Knowledge Transfer and Community-Management at [Platform MaterialDigital](https://www.materialdigital.de/) and [BAM](https://www.bam.de/)
@@ -55,3 +50,8 @@ Hi, my name is Simon.
 - Course Teacher - Numerical Simulations, HSBI (formerly FH Bielefeld)
 - Programming Coach in practical projects in Mechanical Engineering, HSBI (formerly FH Bielefeld)
 - Co-Organizer - [Studienfonds Community Conference 2022](https://studienfondscommunity.de/kick-off-gelungen-die-studienfonds-community-conference-2022/)
+
+## Education
+
+- Master of Science in Optimization and Simulation, FH Bielefeld (now HSBI)
+- Bachelor of Engineering in Information Technology, FH Bielefeld (now HSBI)

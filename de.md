@@ -39,11 +39,6 @@ Hallo, mein Name ist Simon Bekemeier.
 - [Code for Bielefeld](https://codefor.de/bielefeld/)
     - Mitgründer, Vorstandsmitglied
 
-## Ausbildung
-
-- Master of Science in Optimierung und Simulation, HSBI (ehemals FH Bielefeld)
-- Bachelor of Engineering in Informationstechnik, HSBI (ehemals FH Bielefeld)
-
 ## Erfahrungen
 
 - Digitalisierung, Wissenstransfer und Community-Management für die [Plattform MaterialDigital](https://www.materialdigital.de/) und [BAM](https://www.bam.de/)
@@ -55,3 +50,8 @@ Hallo, mein Name ist Simon Bekemeier.
 - Kursleiter - Numerische Simulationen, HSBI (ehemals FH Bielefeld)
 - Programmier-Coach für praktische Projekte im Maschinenbau, HSBI (ehemals FH Bielefeld)
 - Mitorganisator - [Studienfonds Community Conference 2022](https://studienfondscommunity.de/kick-off-gelungen-die-studienfonds-community-conference-2022/)
+
+## Ausbildung
+
+- Master of Science in Optimierung und Simulation, HSBI (ehemals FH Bielefeld)
+- Bachelor of Engineering in Informationstechnik, HSBI (ehemals FH Bielefeld)
