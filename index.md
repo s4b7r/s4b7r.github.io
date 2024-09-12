@@ -22,6 +22,8 @@ Hi, my name is Simon.
 
 ## Affilitations
 
+(Current and former)
+
 - [Federal Institute for Materials Research and Testing](https://www.bam.de/)
 - [Platform MaterialDigital](https://www.materialdigital.de/)
 - [belveka](https://belveka.eu/)
