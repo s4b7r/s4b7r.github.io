@@ -22,6 +22,8 @@ Hallo, mein Name ist Simon Bekemeier.
 
 ## Zugehörigkeit
 
+(Aktuell und ehemalige)
+
 - [Bundesanstalt für Materialforschung und -prüfung](https://www.bam.de/)
 - [Plattform MaterialDigital](https://www.materialdigital.de/)
 - [belveka](https://belveka.eu/)
