@@ -24,6 +24,7 @@ Hi, my name is Simon.
 
 (Current and former)
 
+- [IANUS Simulation GmbH](https://ianus-simulation.de/en/)
 - [Federal Institute for Materials Research and Testing](https://www.bam.de/)
 - [Platform MaterialDigital](https://www.materialdigital.de/)
 - [belveka](https://belveka.eu/)
@@ -45,6 +46,7 @@ Hi, my name is Simon.
 
 ## Experience
 
+- Senior Developer and Data Scientist at [IANUS Simulation GmbH](https://ianus-simulation.de/en/)
 - Digitalization, Knowledge Transfer and Community-Management at [Platform MaterialDigital](https://www.materialdigital.de/) and [BAM](https://www.bam.de/)
 - Researcher at [Bielefeld Institute for Applied Materials Research](https://www.hsbi.de/bifam)
     - Computational Materials Science and Engineering group

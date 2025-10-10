@@ -24,6 +24,7 @@ Hallo, mein Name ist Simon Bekemeier.
 
 (Aktuell und ehemalige)
 
+- [IANUS Simulation GmbH](https://ianus-simulation.de)
 - [Bundesanstalt für Materialforschung und -prüfung](https://www.bam.de/)
 - [Plattform MaterialDigital](https://www.materialdigital.de/)
 - [belveka](https://belveka.eu/)
@@ -45,6 +46,7 @@ Hallo, mein Name ist Simon Bekemeier.
 
 ## Erfahrungen
 
+- Senior Developer und Data Scientist bei [IANUS Simulation GmbH](https://ianus-simulation.de)
 - Digitalisierung, Wissenstransfer und Community-Management für die [Plattform MaterialDigital](https://www.materialdigital.de/) und [BAM](https://www.bam.de/)
 - Wissenschaftlicher Mitarbeiter am [Bielefelder Institut für Angewandte Materialforschung](https://www.hsbi.de/bifam)
     - AG Computational Materials Science and Engineering
