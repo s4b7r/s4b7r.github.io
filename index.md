@@ -11,15 +11,6 @@ Hi, my name is Simon.
 
 *Want to discuss something?* [write@s4b7r.de](mailto:write@s4b7r.de)
 
-## I do
-
-*Connecting people and ideas,* <br>
-*Solve problems and help people do so*
-
-**Consulting, Workshops, Coaching, IT Development**
-
-**Connecting people**: To enable new opportunities, together
-
 ## Affilitations
 
 (Current and former)
