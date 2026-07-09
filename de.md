@@ -11,16 +11,7 @@ Hallo, mein Name ist Simon Bekemeier.
 
 *Möchtest Du in Kontakt treten?* [write@s4b7r.de](mailto:write@s4b7r.de)
 
-## Was ich mache
-
-*Menschen und Ideen zusammenbringen,* <br>
-*Probleme lösen und Menschen dabei unterstützen*
-
-**Consulting, Workshops, Coaching, IT Entwicklung**
-
-**Menschen zusammenbringen**: Um gemeinsam neue Möglichkeiten zu eröffnen
-
-## Zugehörigkeit
+## Affiliationen
 
 (Aktuell und ehemalige)
 
